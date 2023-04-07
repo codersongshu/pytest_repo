@@ -13,7 +13,7 @@ def test_add():
 def test_product_skipped_test():
     assert math_func.product(7,3) == 21
     assert math_func.product(7, 2) == 14
-    print(math_func.add(7, 3), '-----')
+    print(math_func.add(7, 3), '------')
 
 @pytest.mark.strings
 def test_product():
