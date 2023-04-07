@@ -1,6 +1,6 @@
 .idea/
 
-ingnorethisfile.py
+ignorethisfile.py
 
 ### Python template
 # Byte-compiled / optimized / DLL files
@@ -164,3 +164,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+!/ignorethisfile.py
